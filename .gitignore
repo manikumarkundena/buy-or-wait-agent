@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Frontend
+web/node_modules/
+web/dist/
+
+# Local outputs and transcripts
+log.txt
+
+# Local challenge backups
+backend-*/
+fixed/
+*.zip
+diagnose.py
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
